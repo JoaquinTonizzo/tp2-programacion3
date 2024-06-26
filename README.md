@@ -1,4 +1,4 @@
-# Trabajo Práctico 2: Diseñando Regiones - Programación III 🌳
+# Trabajo Práctico 2 - Programación III
 
 ## Descripción 🗺️
 
